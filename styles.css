@@ -51,3 +51,11 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+footer{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  font-size: 0.5rem;
+  line-height: 1.5rem;
+  margin: 5%;
+}
